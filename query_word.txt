@@ -1,0 +1,10 @@
+banana
+tree
+mountain
+bus
+computer
+sea
+flower
+sunset
+panda
+monkey
